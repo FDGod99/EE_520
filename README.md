@@ -3,7 +3,7 @@ University of Southern California (USC ✌🏼) Fall 2022 EE 520 (Introduction t
 
 ### Homeworks:
 
-| ### No. | ### Homework                                                                               | ### Solution                                                                                | ### Topics | ### Score  |
+|  ** No. ** | ** Homework **                                                                               | ** Solution **                                                                               | ** Topics | ** Score **  |
 |-----|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------|--------|
 | 1   | [Homework-1](https://github.com/FDGod99/EE_520/blob/main/Homeworks/Homework1_Ques.pdf) | [PDF](https://github.com/FDGod99/EE_520/blob/main/Homework_Solutions/Homework1_Sol.pdf) |        | 97/100 |
 | 2   | [Homework-2](https://github.com/FDGod99/EE_520/blob/main/Homeworks/Homework2_Ques.pdf) | [PDF](https://github.com/FDGod99/EE_520/blob/main/Homework_Solutions/Homework2_Sol.pdf) |        | 57/60  |
