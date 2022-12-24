@@ -14,3 +14,7 @@ University of Southern California (USC ✌🏼) Fall 2022 EE 520 (Introduction t
 
 
 ### Exams:
+| **No.** | **Exam**                                                                                          | **Practice**                                                                       | **Topics** | **Score** |
+|---------|---------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|------------|-----------|
+| 1       | [Midterm (Fall 2022)](https://github.com/FDGod99/EE_520/blob/main/Exams/Fall2022_Midterm_Sol.pdf) | [PDF](https://github.com/FDGod99/EE_520/blob/main/Sample_Exams/Sample_Midterm.pdf) |            | 95/100    |
+| 2       | [Final (Fall 2022)](https://github.com/FDGod99/EE_520/blob/main/Exams/Fall2022_Final_Sol.pdf)     | [PDF](https://github.com/FDGod99/EE_520/blob/main/Sample_Exams/Sample_Final.pdf)   |            | 88/100    |
