@@ -1,6 +1,7 @@
 # Fall 2022 USC EE_520 (Introduction to Quantum Information Processing) Homeworks Repository
 University of Southern California (USC ✌🏼) Fall 2022 EE 520 (Introduction to Quantum Information Processing) Grade: A (4.0)
 
+###Homeworks:
 
 | No. | Homework                                                                               | Solution                                                                                | Topics | Score  |
 |-----|----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|--------|--------|
@@ -10,3 +11,6 @@ University of Southern California (USC ✌🏼) Fall 2022 EE 520 (Introduction t
 | 4   | [Homework-4](https://github.com/FDGod99/EE_520/blob/main/Homeworks/Homework4_Ques.pdf) | [PDF](https://github.com/FDGod99/EE_520/blob/main/Homework_Solutions/Homework4_Sol.pdf) |        | 46/50  |
 | 5   | [Homework-5](https://github.com/FDGod99/EE_520/blob/main/Homeworks/Homework5_Ques.pdf) | [PDF](https://github.com/FDGod99/EE_520/blob/main/Homework_Solutions/Homework5_Sol.pdf) |        | 50/50  |
 | 6   | [Homework-6](https://github.com/FDGod99/EE_520/blob/main/Homeworks/Homework6_Ques.pdf) | [PDF](https://github.com/FDGod99/EE_520/blob/main/Homework_Solutions/Homework6_Sol.pdf) |        | 30/30  |
+
+
+###Exams:
